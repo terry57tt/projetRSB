@@ -1,3 +1,19 @@
+/bin
+/config
+/migrations
+
+/tests
+/translations
+
+/var
+/vendor
+/.env.test
+
+/docker-compose.override.yml
+/docker-compose.yml
+
+/phpunit.xml.dist
+symfony.lock
 
 ###> symfony/framework-bundle ###
 /.env.local
